@@ -1,6 +1,7 @@
 .DS_Store
 .git
 .gitignore
+.gitattributes
 .stow-local-ignore
 .*.example
 ^/@.*
